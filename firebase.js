@@ -7,12 +7,12 @@ import { getAuth, onAuthStateChanged, RecaptchaVerifier, signInWithPhoneNumber }
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyDbTqRTIMgXV7Ko6lUupssQsMe4V8bKu8U",
-    authDomain: "aaaaa-a6ba1.firebaseapp.com",
-    projectId: "aaaaa-a6ba1",
-    storageBucket: "aaaaa-a6ba1.firebasestorage.app",
-    messagingSenderId: "1076335567500",
-    appId: "1:1076335567500:web:46be61efd80a6767ea11a9"
+    apiKey: "AIzaSyC-Mtzd0icA9Q4PJY0gXvcFZdoHejtQz3E",
+    authDomain: "phone-7eede.firebaseapp.com",
+    projectId: "phone-7eede",
+    storageBucket: "phone-7eede.firebasestorage.app",
+    messagingSenderId: "358327082622",
+    appId: "1:358327082622:web:e9adad2ddce45d13f0822f"
 };
 
 // Initialize Firebase
